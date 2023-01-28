@@ -25,6 +25,7 @@ public class Assignment1Checkboxes {
 		
 		driver.close();
 		System.out.println("Test done Successfully");
+		System.out.println("Git Testing of developing branch");
 		
 		
 		
