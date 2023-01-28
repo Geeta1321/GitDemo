@@ -27,6 +27,8 @@ public class Assignment2 {
 		
 		driver.close();
 		System.out.println("Test Ran Succesfully");
+		System.out.println("Test completed and job done");
+		System.out.println("Execution completed");
 		
 		
 		
